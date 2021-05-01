@@ -1,0 +1,4 @@
+[22-Feb-2020 01:34:49 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/ewor3492/store.eworksolutions.com.mx/library/consulSQL.php on line 14
+[23-May-2020 07:06:05 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/ewor3492/store.eworksolutions.com.mx/library/consulSQL.php on line 14
+[25-Aug-2020 08:30:41 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/ewor3492/store.eworksolutions.com.mx/library/consulSQL.php on line 14
+[27-Nov-2020 17:48:29 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/ewor3492/store.eworksolutions.com.mx/library/consulSQL.php on line 14
